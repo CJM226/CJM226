@@ -7,9 +7,5 @@
 
 </a>
 
-<a href="#">
-  <img align="right" src="https://metrics.lecoq.io/CJM226?template=terminal" />
-</a>
-
 # Mr.Chen 🌝
 
